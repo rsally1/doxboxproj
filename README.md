@@ -23,4 +23,3 @@ Postgresql - Postgres Database Server and Client
 Psychopg2 - Postgres Python Library
 
 Bootstrap 3.x for CSS and Frontend UI
-
